@@ -25,4 +25,4 @@ $ source env/bin/activate
 
 ```
 
-It's not safe to install your Python libraries and it will only be scoped for this project! Enjoy :)
+It's now safe to install your Python libraries and it will only be scoped for this project! Enjoy :)
