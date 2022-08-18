@@ -11,9 +11,9 @@ This bit is straight from [MDN Docs](https://developer.mozilla.org/en-US/docs/We
 
 ### Memory life cycle
 
-1.) Allocate the memory you need
-2.) Use the allocated memory (read, write)
-3.) Release the allocated memory when it is not needed anymore
+1. Allocate the memory you need
+2. Use the allocated memory (read, write)
+3. Release the allocated memory when it is not needed anymore
 
 ## Wrapping up
 
